@@ -1,0 +1,47 @@
+/* Sytle the header */
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+
+/* Style the body */
+
+body {
+    font-family: 'Indie Flower', cursive;
+    color: black;
+}
+
+/* Style the navbar */
+
+.navbar.navbar-default {
+    background-color: goldenrod;
+}
+
+.navbar-brand {
+    font-size: 23px;
+}
+
+/* Style the footer */
+
+
+
+/* Style the container */
+
+.container-fluid, .container {
+    font-family: 'Indie Flower', cursive;
+}
+
+
+
+
+
+
+
