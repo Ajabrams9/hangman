@@ -1,4 +1,4 @@
-###Giftastic
+###Hangman
 
 A hangman game! Guess letters to spell a word until you run out of guesses! Good luck!
 
